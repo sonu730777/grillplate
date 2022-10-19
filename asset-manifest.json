@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/grillplate/static/css/main.3f78f4e8.css",
+    "main.js": "/grillplate/static/js/main.41d101e4.js",
+    "static/js/787.71e672d5.chunk.js": "/grillplate/static/js/787.71e672d5.chunk.js",
+    "static/media/plate.webp": "/grillplate/static/media/plate.904451e26ad98078e86c.webp",
+    "static/media/home.jpg": "/grillplate/static/media/home.ff3b8077544c509dda53.jpg",
+    "static/media/vegrice.jpg": "/grillplate/static/media/vegrice.6a29fbb3071e87957504.jpg",
+    "static/media/contc.jpg": "/grillplate/static/media/contc.6a78d8c1dc572058ddff.jpg",
+    "static/media/noodles.jpg": "/grillplate/static/media/noodles.ddc1a8fe4d0091f809c0.jpg",
+    "static/media/dosa.jpg": "/grillplate/static/media/dosa.c7a7ff9b1dfc17ba292e.jpg",
+    "static/media/dinnerLogo.png": "/grillplate/static/media/dinnerLogo.f689f31046b01073507f.png",
+    "static/media/about.jpg": "/grillplate/static/media/about.18599657840e94945b77.jpg",
+    "static/media/idli.jpg": "/grillplate/static/media/idli.af5d5d4e662b949afdaa.jpg",
+    "static/media/tacos.jpg": "/grillplate/static/media/tacos.9b2e7181297f7b816625.jpg",
+    "static/media/babycorn.jpg": "/grillplate/static/media/babycorn.9cec9019bca2c8eba4ae.jpg",
+    "static/media/lagoon.jpg": "/grillplate/static/media/lagoon.c6cf4a57ed3dd8cd0a19.jpg",
+    "index.html": "/grillplate/index.html",
+    "main.3f78f4e8.css.map": "/grillplate/static/css/main.3f78f4e8.css.map",
+    "main.41d101e4.js.map": "/grillplate/static/js/main.41d101e4.js.map",
+    "787.71e672d5.chunk.js.map": "/grillplate/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f78f4e8.css",
+    "static/js/main.41d101e4.js"
+  ]
+}
