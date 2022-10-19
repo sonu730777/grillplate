@@ -10,6 +10,7 @@
     background-size: cover;
     font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   }
+
   
   .headerContainer {
     width: auto;
@@ -17,6 +18,7 @@
   }
   
   .headerContainer h1 {
+  
     justify-content: center;
     align-items: center;
     font-size: 90px;
@@ -38,7 +40,7 @@
     border-radius: 5px;
     cursor: pointer;
     justify-content: center;
-    background-color:#121619 ;            /**/
+    background-color:#121619 ;           
     height: 50px;
     width: 180px;
     color: white;
@@ -52,7 +54,7 @@
     transition: 0.3s ease-in;
   }
   
-  @media only screen and (max-width: 650px) {
+  @media only screen and (max-width: 900px) {
     .home {
       justify-content: center;
       align-items: center;
@@ -74,6 +76,7 @@
   
     .headerContainer h1 {
       font-size: 40px;
+      text-align: center;
       height: 30px;
       color: white;
     }
