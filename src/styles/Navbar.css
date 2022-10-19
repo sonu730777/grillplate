@@ -72,8 +72,8 @@
   }
   
   .navbar #open a {
-    width: 70px;
-    margin: 5px;
+    width: 55px;
+    margin: 1px;
   }
   @media only screen and (max-width: 900px) {
     .navbar .rightSide a {
@@ -81,7 +81,7 @@
     }
     .navbar .leftSide {
       padding-left: 50px;
-    }
+    } 
   }
   
   @media only screen and (max-width: 600px) {
